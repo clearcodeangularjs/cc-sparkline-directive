@@ -23,7 +23,7 @@
 
   'use strict';
 
-  angular.module('cc.sparkline.directive')
+  angular.module('cc.sparkline.directive', [])
     .directive('sparkline', function () {
       return {
         template: '<div class="sparkline"><chart data-config="chartConfig" data-input="chartData" /></div>',

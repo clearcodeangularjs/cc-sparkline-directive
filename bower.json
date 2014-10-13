@@ -5,6 +5,7 @@
   "ClearCode (http://clearcode.cc)"
 ],
   "version": "1.0.0",
+  "homepage": "http://plnkr.co/edit/dLq2f1VDnUgtVGBDiywM",
   "main": "sparkline.js",
   "ignore": [
     "**/.*",

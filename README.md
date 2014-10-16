@@ -5,7 +5,7 @@ Adds sparkline using highcharts.
 
 Installation
 --------------
-TODO
+``` bower install clearcodeangularjs/cc-sparkline-directive --save ```
 
 
 Usage

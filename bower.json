@@ -1,12 +1,12 @@
 {
-	"name": "sparkline-directive",
+	"name": "cc-sparkline-directive",
 	"description": "Highcharts chart directive",
 	"authors": [
 		"ClearCode (http://clearcode.cc)"
 	],
 	"version": "1.0.0",
 	"homepage": "http://plnkr.co/edit/dLq2f1VDnUgtVGBDiywM",
-	"main": "sparkline.js",
+	"main": "script/directives/sparkline.js",
 	"ignore": [
 		"**/.*",
 		"node_modules",
@@ -18,7 +18,7 @@
 		"jquery": "~1.10.2",
 		"highcharts": "http://code.highcharts.com/4.0.1/highcharts.js",
 		"numeraljs": "~1.5.3",
-		"chart-directive": "~1.0.0"
+		"cc-chart-directive": "clearcodeangularjs/cc-chart-directive"
 	},
 	"devDependencies": {
 		"grunt": "^0.4.1",
